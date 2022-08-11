@@ -83,5 +83,5 @@ body {
 #close-btn {
     width: 40px;
     min-height: 40px;
-    background-image: url('./src/img/crosslinear.svg');
+    background-image: url('../src/img/crosslinear.svg');
 }
