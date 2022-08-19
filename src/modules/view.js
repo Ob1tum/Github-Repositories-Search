@@ -43,10 +43,6 @@ export class View {
       });
       this.clearRepos();
     });
-
-    // selectedElement.addEventListener('click', (e) => {
-    //   selectedElement.remove();
-    // });
   }
 
   clearRepos() {
